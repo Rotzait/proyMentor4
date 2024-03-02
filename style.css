@@ -17,7 +17,7 @@ body {
     align-items: center;
 }
 
-header {
+main {
     background-image: url("background.jpg");
     height: 560px;
     max-width: 400px;
